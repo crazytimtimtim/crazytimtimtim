@@ -4,7 +4,7 @@
 - 👀 I’m interested in flight simulation.
 - 🌱 I’m currently learning C#, and improving my skills in Lua.
 - 📫 How to reach me: crazytimtimtim#0150 on Discord
-- 😄 Pronouns: [bit.ly/2ZoPA60](bit.ly/2ZoPA60)
+- 😄 Pronouns: [click here](bit.ly/2ZoPA60)
 - ⲣⲉⲙⲛ̀ⲭⲏⲙⲓ
 
 <p align="center">
