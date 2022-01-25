@@ -9,6 +9,11 @@
 
 <p align="center">
   <a href="https://github.com/crazytimtimtim">
+    <img align="center" src="https://komarev.com/ghpvc/?username=crazytimtimtim&color=blue" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/crazytimtimtim">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=crazytimtimtim&show_icons=true&theme=tokyonight&border_radius=10" />
   </a>
 </p>
